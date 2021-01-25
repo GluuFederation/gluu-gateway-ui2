@@ -1,2 +1,3 @@
-# gluu-gateway-ui2
-Updated GG Admin UI
+## Kong Admin GUI
+
+Forked from https://github.com/pantsel/konga
